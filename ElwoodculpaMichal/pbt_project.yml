@@ -1,0 +1,49 @@
+name: karlyn.walter
+description: framework
+version: 0.0.1
+author: bauohzjk.k4sfxe4o@fgvnim78.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: karlynwalter
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:13:44'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:13:44'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:13:44.138883Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1969401864'
+  createdAt: '2024-11-22T20:13:44.138883Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
